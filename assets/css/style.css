@@ -1,0 +1,39 @@
+@charset "UTF-8";
+h1{
+  background-color: #000000
+
+}
+
+h1{
+  text-align: center;
+}
+
+h1{
+  color: #FFCC33
+}
+
+.wrapper{
+  text-align: center;
+  font-family: fantasy;
+  background-color: #003366
+
+}
+
+.img{
+  text-align: center;
+}
+
+.watasu{
+font-family: fantasy;
+  color: #FFCC33
+
+}
+h2{
+  text-align: center;
+}
+h3{text-align: center;}
+li{text-align: center;}
+
+ul{
+  text-align: center;
+}
