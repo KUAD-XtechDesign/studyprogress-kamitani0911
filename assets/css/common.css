@@ -1,40 +1,40 @@
-@charset "UTF-8";
-h1{
-  background-color: #000000
 
+
+html{
+  color:  # #161515;
+background: #003366;
+
+font-size: 14px;
+line-height:  1,8;
 }
 
-h1{
-  text-align: center;
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+img {
+  max-width: 100%;
+  height: auto;
 }
 
-h1{
-  color: #FFCC33
-}
+a{
+  color: #FF4B23;}
 
-.wrapper{
-  text-align: center;
-  font-family: fantasy;
-  background-color: #003366
+  li{
+    list-style-position: inside;
+  }
 
-}
 
-.img{
-  text-align: center;
-}
+  .mb_s{
+    margin-bottom: 10px;
+  }
 
-.watasu{
-font-family: fantasy;
-  color: #FFCC33
+  .mb_m{
+    margin-bottom: 20px;
+  }
 
-}
-h2{
-  text-align: center;
-}
-h3{text-align: center;}
-li{text-align: center;}
-
-ul{
-  text-align: center;
-}
-p{text-align: center;}
+  .mb_l{
+    margin-bottom: 40px;
+  }
